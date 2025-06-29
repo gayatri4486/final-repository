@@ -82,7 +82,7 @@ const CoursesPage = () => {
       <p style={{textAlign:'center'}}>Have questions about a specific course?</p>
       <div className="center-container">
         <Link to="/contact" style={{textDecoration:'none'}}>
-        <button className="my-button" onClick>Inquire About Courses</button>
+        <button className="button" onClick>Inquire About Courses</button>
         </Link>
       </div>
       </div>

@@ -13,7 +13,7 @@ const HomePage = () => {
                         <img className='image' src='/images/heading.jpg'></img>
                         <div className="image-text">
                     <h2>Welcome to Vivekanand College!</h2><p>Your journey to excellence starts here.</p>
-                        <Link to="/admission" className="btn hero-btn">
+                        <Link to="/admission" className="button">
                             
                         </Link>
                         </div>
@@ -35,7 +35,7 @@ const HomePage = () => {
                 <div style={{textAlign:'center'}}>
                      Ready to explore our courses?
                      <br></br><br></br>
-                <Link to="/courses"className="btn hero-btn">
+                <Link to="/courses"className="button">
                 </Link>
                 </div>
                 </div>
