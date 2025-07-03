@@ -13,6 +13,7 @@ const AdmissionPage = () => {
                 <p>Please review the eligibility criteria and key dates below for the upcoming academic year. For any queries, feel free to contact our admissions office.</p>
                 <h2>Eligibility Criteria for Undergraduate Programs</h2><hr></hr>
                 <table>
+                    <tbody>
                     <tr>
                         <th>Program</th>
                         <th>Minimum Qualification</th>
@@ -37,6 +38,7 @@ const AdmissionPage = () => {
                         <td>Any Stream</td>
                         <td>40%</td>
                     </tr>
+                    </tbody>
                 </table>
                 <h2>Application Process</h2><hr></hr>
                 <ol type="1">

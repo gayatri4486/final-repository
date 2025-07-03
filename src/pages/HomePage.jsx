@@ -35,7 +35,7 @@ const HomePage = () => {
                 <div style={{textAlign:'center'}}>
                      Ready to explore our courses?
                      <br></br><br></br>
-                <Link to="/courses"className="button">
+                <Link to="/courses" className="button">Explore Courses
                 </Link>
                 </div>
                 </div>
