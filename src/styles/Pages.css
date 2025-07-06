@@ -304,24 +304,6 @@
     /* Adjust height for stacked images */
   }
 
-  /* Admissions Table */
-  /* .admissions-table, .course-details-table {
-    display: block; /* Make table block level */
-  /* overflow-x: auto; Enable horizontal scroll for table on small screens */
-  /* white-space: nowrap; Prevent content from wrapping inside cells */
-  /* -webkit-overflow-scrolling: touch; For smooth scrolling on iOS */
-  /* } */
-  .admissions-table thead,
-  .admissions-table tbody,
-  .admissions-table th,
-  .admissions-table td,
-  .admissions-table tr {
-    display: block;
-    /* Make table elements stack */
-    width: auto;
-    /* Allow natural width */
-  }
-
 }
 
 @media (max-width: 480px) {
